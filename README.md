@@ -68,11 +68,11 @@ code
 
 * source
 
-~~~
-```
-this is code block
-```
-~~~
+
+    ```
+    this is code block
+    ```
+
 
 * result
 
@@ -83,13 +83,13 @@ this is code block
 
 * source
 
-~~~
-```ruby
-get '/' do
-  "Hello world "
-end
-```
-~~~
+
+    ```ruby
+    get '/' do
+      "Hello world "
+    end
+    ```
+
     
 * result
 
