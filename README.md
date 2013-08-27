@@ -144,7 +144,7 @@ this is the 2^(nd) time
 this is the 2^(nd) time
 
 
-unserline
+underline
 ---------
 * source
 
@@ -157,6 +157,18 @@ This is _underlined_ but this is still *italic*
 This is _underlined_ but this is still *italic*
 
 
+highlight
+--------
+
+* source
+
+```
+This is ==highlighted==
+```
+
+* result
+
+This is ==highlighted==
 
 
 
