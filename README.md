@@ -139,12 +139,33 @@ this is the 2^(nd) time
 ```
 
 * result
+
+
 this is the 2^(nd) time
+
+
+unserline
+---------
+* source
+
+```
+This is _underlined_ but this is still *italic*
+```
+
+* result
+
+This is _underlined_ but this is still *italic*
+
+
+
 
 
 Index
 ---
+
 * source
+
 ```
 ```
+
 * result
