@@ -129,7 +129,22 @@ this is ~~good~~ bad
 this is ~~good~~ bad
 
 
+superscript
+----------
+
+* source
+
+```
+this is the 2^(nd) time
+```
+
+* result
+this is the 2^(nd) time
+
+
 Index
 ---
 * source
+```
+```
 * result
