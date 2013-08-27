@@ -90,7 +90,7 @@ this is code block
     end
     ```
 
-    
+
 * result
 
 ```ruby
@@ -101,21 +101,32 @@ end
 
 
 autolink
----
+--------
 
 * source
 
-~~~
+```
 http://mukaer.com
-~~~
+```
 
-* result 
+* result
 
 http://mukaer.com
 
 
 
+strikethrough
+-------------
 
+* source
+
+```
+this is ~~good~~ bad
+```
+
+* result
+
+this is ~~good~~ bad
 
 
 Index
